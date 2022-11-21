@@ -84,6 +84,11 @@ p {
   margin-bottom: 1rem;
 }
 
+.this {
+  background-image: url('K.png');
+  background-size: cover;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
